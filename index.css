@@ -1,8 +1,13 @@
+html{
+    font-size: 0.625%;
+}
+
 body {
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
     color: #282828;
+    
 }
 
 header {
@@ -11,7 +16,7 @@ header {
 }
 
 .logo {
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 
